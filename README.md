@@ -12,7 +12,8 @@ I love Stisla and Laravel 8 Admin Templates let's make them love each other.
 Include simple Data Table with Livewire (CRUD).
 
 ## What next?
-After clone or download this repository, next step is install all dependency required by laravel and laravel-mix.
+
+Setelah melakukan clone atau mendownload repositori ini, langkah selanjutnya adalah menginstal semua dependensi yang dibutuhkan oleh laravel dan laravel-mix.
 
 ```shell
 # install composer-dependency
@@ -23,7 +24,7 @@ $ npm install
 $ npm run dev
 ```
 
-Before we start web server make sure we already generate app key, configure `.env` file and do migration.
+Sebelum kita memulai server web, pastikan kita sudah mengenerate app key, konfigurasikan file `.env` dan lakukan migrasi.
 
 ```shell
 # create copy of .env
