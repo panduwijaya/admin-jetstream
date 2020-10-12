@@ -1,7 +1,7 @@
 # Laravel 8 + Stisla + Jetstream + Livewire
 I love Stisla and Laravel 8 Admin Templates let's make them love each other.
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nyancodeid/laravel-8-stisla-jetstream/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/panduwijaya/jet-stream/issues)
 
 ## What inside?
 - Laravel ^8.5 - [laravel.com/docs/8.x](https://laravel.com/docs/8.x)
